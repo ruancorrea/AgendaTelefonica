@@ -1,9 +1,9 @@
-<header align = "center">
+<div align = "center">
   <h1>Agenda Telefônica</h1>
   <h4>Aplicação web utilizando ReactJS e NodeJS</h4>
   <img src = "https://user-images.githubusercontent.com/47988061/154887089-dc652e1e-cbb6-48e3-91ea-fa452eaafad1.png">
    </img>
-</header>
+</div>
   
   <h2> Funcionalidades </h2>
       <ul>
