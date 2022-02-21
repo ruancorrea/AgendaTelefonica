@@ -8,10 +8,11 @@
   <h2> Funcionalidades </h2>
       <ul>
         <li>Listar todos os contatos. (Com paginação)</li>
-        <li>Adicionar um contato. (Podendo dar upload de uma imagem)</li> 
+        <li>Adicionar um contato. (Podendo dar upload de uma imagem no contato)</li> 
         <li>Ver informações de um contato.</li>  
         <li>Editar informações de um contato.</li> 
         <li>Remover um contato.</li>
+        <li>Design responsivo.</li>
       </ul>
   
   <h2> Ferramentas utilizadas </h2>

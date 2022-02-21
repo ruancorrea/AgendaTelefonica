@@ -78,9 +78,8 @@ export default function Details(props: DetailsProps) {
                         {NoEdit ? "Detalhes do Contato" : "Editando Contato" }
                     </label>
 
-                    <div className="rounded-xl flex justify-center">
+                    <div className="rounded-xl flex w-full justify-center">
                         <img src={props.url + imagem} className="w-1/3 h-auto rounded-full" />
-                        
                     </div>
 
                     {
