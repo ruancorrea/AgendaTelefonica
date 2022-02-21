@@ -1,7 +1,7 @@
 <div align = "center">
   <h1>Agenda Telefônica</h1>
   <h4>Aplicação web utilizando ReactJS e NodeJS</h4>
-  <img src = "https://user-images.githubusercontent.com/47988061/154887089-dc652e1e-cbb6-48e3-91ea-fa452eaafad1.png">
+  <img src = "https://user-images.githubusercontent.com/47988061/154892703-32b34b0b-ad42-47c1-bb76-d00993c41dad.gif">
    </img>
 </div>
   
